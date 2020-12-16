@@ -8,8 +8,8 @@ export default function Home() {
   return (
     <div className="flex items-center justify-center w-screen h-screen">
       <div>
-        <div className="flex items-center gap-3 p-1 mb-3">
-          <div className="w-1 h-5 bg-black rounded-full"></div>
+        <div className="flex items-center p-1 mb-3">
+          <div className="w-1 h-5 mr-3 bg-black rounded-full"></div>
           <p className="font-thin">全部音单</p>
         </div>
         <div className="p-1">
