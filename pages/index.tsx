@@ -1,6 +1,5 @@
 import styled from 'styled-components'
 import { FC } from 'react'
-import { Interface } from 'readline'
 
 const VideoCount = styled.span`
   text-shadow: #f03740 1px 0px, #2addfd 2px 0px;
